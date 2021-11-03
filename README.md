@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikolaythehacker1311
+- 👀 I’m interested in coding for money, but open-source projects are my favorite.
+- 🌱 I’m currently learning Python
+- 📫 How to reach me https://forum.antichat.ru/members/421627/
